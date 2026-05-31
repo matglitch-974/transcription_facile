@@ -1,7 +1,6 @@
-=============================================
-          SAISIE VOCALE INTELLIGENTE v2.0
-                Guide d'utilisation
-=============================================
+
+SAISIE VOCALE INTELLIGENTE v2.0 : Guide d'utilisation
+=====================================================
 
 DESCRIPTION
 -----------
@@ -123,6 +122,5 @@ RACCOURCIS
 - Enregistrement : N'importe quelle touche = arreter
 - Nom fichier : ENTREE = "transcription.txt"
 
-=============================================
-            Bonne utilisation !
-=============================================
+Bonne utilisation !
+===================
